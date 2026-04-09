@@ -1,0 +1,5 @@
+id,nombre,edad,correo
+1,juan perez,25,juan@mail.com
+2,,30,error@mail.com
+3,MARIA LUZ,28,maria@mail.com
+4,pedro gomez,,pedro@mail.com
